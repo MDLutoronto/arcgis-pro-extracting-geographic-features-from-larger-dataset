@@ -5,6 +5,9 @@ description: "You may have noticed that many GIS datasets contain information ab
 staff:
     - name: Nick Field
       link: https://library.utoronto.ca/staff/nick-field
+maintainer: 
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white 
 created_date: 2024-02-06
 permalink: "/"  #! Remove this if not the homepage
 ---
