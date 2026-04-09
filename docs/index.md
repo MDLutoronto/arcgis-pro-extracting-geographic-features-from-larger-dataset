@@ -40,5 +40,3 @@ You may have noticed that many GIS datasets contain information about a geograph
 6. Alternatively, you can use the different Select tools instead of selecting rows from the attribute table to interactively select features from the map.
 
     <img src='{{ '/assets/images/6_0.png' | relative_url }}' alt='pop up from the Selection category, showcasing the different ways of selecting shape files' title='' width='204' height='470' />
-
-Technique: [Extracting data](https://mdl.library.utoronto.ca/technique/extracting-data) | Tools: [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70) | Data Format: [Vector](https://mdl.library.utoronto.ca/data-format/vector)
