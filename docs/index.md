@@ -41,4 +41,4 @@ You may have noticed that many GIS datasets contain information about a geograph
 
     <img src='{{ '/assets/images/6_0.png' | relative_url }}' alt='pop up from the Selection category, showcasing the different ways of selecting shape files' title='' width='204' height='470' />
 
-Technique: [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) | Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro) | Data Format: [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
+**Technique:** [Extracting data](https://mdlutoronto.github.io/tutorials-search/?technique=Extracting+data) \| **Tools:** [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro) \| **Data Format:** [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
